@@ -21,7 +21,7 @@ A [Spicetify](https://spicetify.app) extension that adds a **fullscreen mode fea
 - **Complete music player:** Displays the song title, artist, progress bar with timestamps (click to seek), shuffle, previous, play/pause, next, and repeat controls.
 - **Multiple ways to open:** Button in the player bar, button in the top bar, and keyboard shortcut `Ctrl + Shift + V`.
 
-## 📋 Requirements
+##  Requirements
 
 - [Spicetify CLI](https://spicetify.app/docs/getting-started) installed and applied to your Spotify desktop client.
 - Spotify desktop application (Windows, macOS, or Linux).
